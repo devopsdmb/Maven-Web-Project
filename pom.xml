@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>:wq
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
@@ -82,8 +82,8 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://localhost:9090/mithuntechnologies/repository/maven-releases/</url>
+	      <name>maven-release-suji</name>
+	      <url>http://34.229.157.58:8081/repository/maven-release-suji</url>
 	    </repository>
 	    <snapshotRepository>
 	      <id>nexus</id>
