@@ -83,7 +83,7 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>maven-release-suji</name>
-	      <url>http://34.229.157.58:8081/repository/maven-release-suji</url>
+	      <url>http://34.224.97.71:8081/repository/maven-release-suji/</url>
 	    </repository>
 	    <snapshotRepository>
 	      <id>nexus</id>
