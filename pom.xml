@@ -82,13 +82,13 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>maven-release-suji</name>
-	      <url>http://34.224.97.71:8081/repository/maven-release-suji/</url>
+	      <name>sujisnap</name>
+	      <url>http://54.212.116.149:8081/repository/sujisnap/</url>
 	    </repository>
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://localhost:9090/mithuntechnologies/repository/maven-snapshots</url>
+	      <name>suji</name>
+	      <url>http://54.212.116.149:8081/repository/suji/</url>
 	    </snapshotRepository>
 	</distributionManagement>
 	
