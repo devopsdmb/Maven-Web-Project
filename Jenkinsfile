@@ -24,5 +24,9 @@ node {
                     sh 'mvn sonar:sonar'
 	      }
                 }
-       
+	stage('deploy') {
+	
+			  
+				sh  'cp $WORKSPACE/target/*.war /opt/apache-tomcat-9.0.12/webapps'
+}
 }
